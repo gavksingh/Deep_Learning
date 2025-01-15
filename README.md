@@ -45,8 +45,3 @@ This repository contains a series of deep learning experiments and analyses cond
 - **Deep Learning Framework**: PyTorch
 - **Other Libraries**: NumPy, pandas, Matplotlib, Seaborn, scikit-learn
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/deep-learning-techniques.git
-   cd deep-learning-techniques
